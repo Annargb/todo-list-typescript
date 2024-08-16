@@ -15,6 +15,11 @@ A simple and efficient To-Do List application built using TypeScript and Vite. T
 
 ## Technologies Used
 
-* TypeScript: For strong typing and enhanced code quality.
-* Vite: For fast and modern front-end tooling.
-* CSS: For styling the application.
+* ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+* ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
+* ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+* ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+* ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+* ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+
