@@ -3,8 +3,11 @@ A simple and efficient To-Do List application built using TypeScript and Vite. T
 
 ## Features
 :white_check_mark: Add New Tasks: Quickly add new tasks to your to-do list.
+
 :white_check_mark: Delete Tasks: Remove tasks that are no longer needed.
+
 :white_check_mark: Clear the entire list. Delete all tasks if they are completed or no longer needed.
+
 :white_check_mark: Mark as Complete: Mark tasks as completed to keep track of your progress.
   
   ![Empty List](./src/img/to-do-list-empty.png)
